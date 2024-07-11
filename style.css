@@ -1,6 +1,21 @@
-.funfont{
-    font-size: 28px;
-    color: darkcyan;
-    font-weight: 300;
-    background-color: bisque;
+body{
+    background-color: blanchedalmond;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 50px;
+}
+
+h2{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.Description{
+    color: #b89344;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 24px;
 }

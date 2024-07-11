@@ -1,30 +1,29 @@
-body{
-    background-color: blanchedalmond;
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
+body {
+  background-color: blanchedalmond;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
 }
 
-h1{
-    font-weight: 900;
-    font-size: 50px;
+h1 {
+  font-weight: 900;
+  font-size: 50px;
 }
 
-h2{
-    font-style: italic;
-    font-size: 30px;
+h2 {
+  font-style: italic;
+  font-size: 30px;
 }
 
-.Description{
-    color: #b89344;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 24px;
+.Description {
+  color: #b89344;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 24px;
 }
 
-.Ingredients{
-    font-weight: 900;
+.Ingredients {
+  font-weight: 900;
 }
 
-.steps{
-    font-family: Arial, Helvetica, sans-serif;
+.steps {
+  font-family: Arial, Helvetica, sans-serif;
 }
-

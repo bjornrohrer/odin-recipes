@@ -28,10 +28,16 @@ h2 {
 
 .Ingredients {
   font-weight: 900;
+  margin-left: 400px;
+  margin-bottom: 100px;
+  margin-top: 100px;
 }
 
 .steps {
   font-family: Arial, Helvetica, sans-serif;
+  margin-left: 400px;
+  margin-bottom: 100px;
+  margin-top: 100px;
 }
 
 .image {
